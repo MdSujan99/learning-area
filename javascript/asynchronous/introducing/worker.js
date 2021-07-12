@@ -5,5 +5,5 @@ onmessage = function() {
     myDate = date
   }
 
-  postMessage(myDate);
+  postMessage(date);
 }
